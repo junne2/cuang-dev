@@ -64,7 +64,7 @@ const About: React.FunctionComponent<AboutProps> = props => {
   return (
     <AboutWrapper>
       <AboutPageTitle>
-        <h2>안녕하세요. 쿠앙이입니다.</h2>
+        <h2>안녕하세요. 이지입니다.</h2>
         <p>
           새로운 도전하는 새내기 개발자 입니다.:)<br />
           새로운 도전에 겁은 나지만 도전 과 알아가는 것을 좋아하는 사람이라 늦었지만 개발자 라는 열차에 탑승하려 합니다.<br /> 

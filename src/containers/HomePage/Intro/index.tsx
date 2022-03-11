@@ -65,7 +65,7 @@ const Intro: React.FunctionComponent<IntroProps> = () => {
       </IntroImage>
       <IntroInfo>
         <IntroTitle>
-          안녕하세요 쿠앙이 입니다.
+          안녕하세요 이지 입니다.
         </IntroTitle>
         <Desciption>
           새로운 도전하는 새내기 개발자 입니다.:)<br />

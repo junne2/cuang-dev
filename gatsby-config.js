@@ -4,11 +4,11 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `cuang`,
-    author: `쿠앙이`,
+    title: `sasy`,
+    author: `이지`,
     about: `새로운 도전을 하는 새내기 개발자 입니다.`,
-    description: `쿠앙이의 개발 스토리 블로그입니다.`,
-    siteUrl: `https://cuang2.com`,
+    description: `이지의 개발 스토리 블로그입니다.`,
+    siteUrl: `https://easy.com`,
   },
   plugins: [
     {
@@ -122,8 +122,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `쿠앙이 - 새내기 개발자`,
-        short_name: `쿠앙이`,
+        name: `easy - 새내기 개발자`,
+        short_name: `이지`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#ff176a`,

@@ -34,13 +34,13 @@ const SEO: React.FunctionComponent<SEOProps> = ({
   )
 
   const KEYWORDS_SET = [
-    "cuang",
+    "easy",
     "기술블로그",
     "새내기개발자",
     "김주희",
     "Front-end",
     "python",
-    "쿠앙",
+    "이지",
     "",
   ]
   const currentKeywords = [...keywords, ...KEYWORDS_SET]
@@ -105,8 +105,8 @@ const SEO: React.FunctionComponent<SEOProps> = ({
 SEO.defaultProps = {
   lang: `ko`,
   meta: [],
-  keywords: ["cuang","python","front-end","React"],
-  description: `새내기 개발자 쿠앙이의 블로그 입니다.`,
+  keywords: ["easy","python","front-end","React"],
+  description: `새내기 개발자 이지의 블로그 입니다.`,
 }
 
 export default SEO

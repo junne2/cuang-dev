@@ -1,7 +1,7 @@
 {
-  "name": "cuang",
+  "name": "easy",
   "private": true,
-  "description": "새내기 개발자 쿠앙이, 새로이 프엔 공부중",
+  "description": "새내기 개발자 이지, 새로이 프엔 공부중",
   "version": "0.1.0",
   "author": "Yujoeng Kim <pointu341@gmail.com>",
   "dependencies": {
@@ -70,7 +70,7 @@
     "prettier": "^1.17.0"
   },
   "keywords": [
-    "cuang",
+    "easy",
     "React",
     "blog",
     "donggeun",
