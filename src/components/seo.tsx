@@ -17,7 +17,7 @@ const SEO: React.FunctionComponent<SEOProps> = ({
   meta,
   keywords,
   title,
-  cover = "https://raw.githubusercontent.com/YuChocopie/chocopie/master/blog_choco.png",
+  cover = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fvelog.io%2F%40chltndid724%2F%25EC%2599%259C-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590%25EB%25A5%25BC-%25ED%2595%2598%25EC%2598%2580%25EB%258A%2594%25EA%25B0%2580&psig=AOvVaw2sTgDdIMwhEBijG7-eXdNG&ust=1647090971361000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiwuZSSvvYCFQAAAAAdAAAAABAJ",
 }) => {
   const { site } = useStaticQuery(
     graphql`
