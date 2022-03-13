@@ -3,7 +3,7 @@
 https://cuang-dev-qq24uukj9-junne2.vercel.app/
 
 실행시 npm install
-     gatsby develop
+<br />     gatsby develop
      
      
 # 글 작성하는 법
