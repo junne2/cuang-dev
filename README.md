@@ -1,6 +1,6 @@
 # cuang-dev
 
-https://cuang-dev-qq24uukj9-junne2.vercel.app/
+https://cuang-dev-nq9lwwy3o-junne2.vercel.app/
 
 실행시 npm install
 <br />     gatsby develop
