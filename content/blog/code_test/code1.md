@@ -1,5 +1,5 @@
 ---
-title: code_test day1
+title: 완주하지 못한 선수 python
 date: "2022-03-11"
 tags: ["Algorithm", "test", "code"]
 description: "알고리즘 테스트코드를 기록하는 곳입니다."

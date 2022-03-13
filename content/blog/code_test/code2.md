@@ -1,5 +1,5 @@
 ---
-title: code_test day2
+title: 체육복 + K번째수 python
 date: "2022-03-09"
 tags: ["Algorithm", "test", "code"]
 description: "알고리즘 테스트코드를 기록하는 곳입니다."
