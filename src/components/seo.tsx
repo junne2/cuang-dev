@@ -17,7 +17,7 @@ const SEO: React.FunctionComponent<SEOProps> = ({
   meta,
   keywords,
   title,
-  cover = "./code.jpeg",
+  cover = "./code.jpg",
 }) => {
   const { site } = useStaticQuery(
     graphql`
