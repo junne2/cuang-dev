@@ -1,6 +1,6 @@
 ---
 title: 나머지가 1이 되는 수 찾기, 2016년 -javascript
-date: "2022-03-22"
+date: "2022-04-14"
 tags: ["Algorithm", "test", "code",'javascript','programmers']
 description: "알고리즘 테스트코드를 기록하는 곳입니다."
 cover: "./main1.jpg"

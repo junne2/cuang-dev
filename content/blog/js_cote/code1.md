@@ -1,6 +1,6 @@
 ---
 title: 직사각형 별찍기-javascript
-date: "2022-03-14"
+date: "2022-04-05"
 tags: ["Algorithm", "test", "code",'javascript','programmers']
 description: "알고리즘 테스트코드를 기록하는 곳입니다."
 cover: "./main1.jpg"

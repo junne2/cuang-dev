@@ -1,6 +1,6 @@
 ---
 title: 가운데 글자 가져오기, 부족한 금액 계산하기 -javascript
-date: "2022-03-21"
+date: "2022-04-14"
 tags: ["Algorithm", "test", "code",'javascript','programmers']
 description: "알고리즘 테스트코드를 기록하는 곳입니다."
 cover: "./main1.jpg"

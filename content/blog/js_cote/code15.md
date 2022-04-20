@@ -1,6 +1,6 @@
 ---
 title: 예산, 음양더하기 -javascript
-date: "2022-03-25"
+date: "2022-04-15"
 tags: ["Algorithm", "test", "code",'javascript','programmers']
 description: "알고리즘 테스트코드를 기록하는 곳입니다."
 cover: "./main1.jpg"

@@ -1,6 +1,6 @@
 ---
 title: 평균 구하기 , 짝수와 홀수 -javascript
-date: "2022-03-16"
+date: "2022-04-08"
 tags: ["Algorithm", "test", "code",'javascript','programmers']
 description: "알고리즘 테스트코드를 기록하는 곳입니다."
 cover: "./main1.jpg"

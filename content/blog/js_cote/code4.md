@@ -1,6 +1,6 @@
 ---
 title: 하샤드 수 -javascript,python
-date: "2022-03-15"
+date: "2022-04-07"
 tags: ["Algorithm", "test", "code",'javascript','programmers']
 description: "알고리즘 테스트코드를 기록하는 곳입니다."
 cover: "./main1.jpg"

@@ -1,6 +1,6 @@
 ---
 title: 두 정수 사이의 합, 나누어 떨어지는 숫자 배열 -javascript
-date: "2022-03-19"
+date: "2022-04-12"
 tags: ["Algorithm", "test", "code",'javascript','programmers']
 description: "알고리즘 테스트코드를 기록하는 곳입니다."
 cover: "./main1.jpg"
