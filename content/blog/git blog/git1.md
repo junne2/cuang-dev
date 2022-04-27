@@ -52,6 +52,7 @@ $ git checkout people
 
 </aside>
 
+
 ## 깃에 파일 올리는 방법
 
 `$ git init`
@@ -120,7 +121,7 @@ ex) `merge` 예시
 
 ## branch 삭제하기
 
-`$ **git branch -d people**`
+`$ git branch -d people`
 
 people 라는 브랜치를 삭제하는 방법으로 다른 브랜치를 삭제하고자 한다면 네임을 바꾸면 된다.
 
