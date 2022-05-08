@@ -1,5 +1,5 @@
 ---
-title: [3차] n진수 게임 ,이진 변환 반복하기-javascript
+title: 3차 n진수 게임 ,이진 변환 반복하기-javascript
 date: "2022-05-07"
 tags: ["Algorithm", "test", "code",'javascript','programmers']
 description: "알고리즘 테스트코드를 기록하는 곳입니다."
